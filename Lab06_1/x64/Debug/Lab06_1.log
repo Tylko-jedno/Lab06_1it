@@ -1,0 +1,4 @@
+﻿  Lab06_1.cpp
+C:\Users\FurryFob\Desktop\АП\Лаби6\Лаб6.1\Lab06_1\Lab06_1\Lab06_1.cpp(15,26): warning C4311: <function-style-cast>: усечение указателя из "int *" в "int"
+C:\Users\FurryFob\Desktop\АП\Лаби6\Лаб6.1\Lab06_1\Lab06_1\Lab06_1.cpp(15,26): warning C4302: <function-style-cast>: усечение из "int *" к "int"
+  Lab06_1.vcxproj -> C:\Users\FurryFob\Desktop\АП\Лаби6\Лаб6.1\Lab06_1\x64\Debug\Lab06_1.exe
